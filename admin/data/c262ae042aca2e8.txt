@@ -1,0 +1,13 @@
+no wa : 085793140232
+phone : 081222536006
+email : ahmanhida@gmail.com
+
+batas telat 15 menit
+absensi  30
+tugas    20
+uts      25
+uas      25
+
+subject : tugas 1 NIM NAMA
+file : txt
+nama file : nim nama

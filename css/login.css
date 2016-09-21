@@ -1,0 +1,51 @@
+body {
+	
+	background-color: #0e6500;
+}
+
+#wrapper {
+	width: 650px;
+	height: 325px;
+	background: url("../images/login.jpg");
+	margin: 10% auto;
+	border: 10px solid #999;
+	border-radius: 25px 0 25px 0;
+}
+
+#login {
+	float: center;
+	margin: 5% auto;
+	width: 300px;
+}
+
+input {
+	width: 243px;
+	margin: 0 auto 10px auto;
+}
+
+#radio {
+	width: 20px;
+	margin: 0 auto 10px auto;
+}
+
+select {
+	width: 250px;
+	margin: 0 auto 10px auto;
+}
+
+#button {
+	width: 250px;
+	height: 40px;
+}
+
+form {
+	margin: 114px 0 0 50px;
+}
+
+#gagal {
+	text-align: center;
+	margin-top: -2px;
+	margin-left: 26px;
+	color: #C03;
+	font-size: 16px;
+}

@@ -1,0 +1,43 @@
+body {
+	background-color: #666;
+}
+
+#wrapper {
+	width: 650px;
+	height: 325px;
+	background: url("../images/login.jpg");
+	margin: 10% auto;
+	border: 10px solid #999;
+	border-radius: 25px 0 25px 0;
+}
+
+#login {
+	float: right;
+	width: 325px;
+}
+
+input {
+	width: 243px;
+	margin: 0 auto 10px auto;
+}
+
+select {
+	width: 250px;
+	margin: 0 auto 10px auto;
+}
+
+#button {
+	width: 250px;
+}
+
+form {
+	margin: 145px 0 0 50px;
+}
+
+#gagal {
+	text-align: center;
+	margin-top: -2px;
+	margin-left: 26px;
+	color: red;
+	font-size: 12px;
+}
